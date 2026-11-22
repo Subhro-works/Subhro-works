@@ -1,4 +1,6 @@
 ## Hi there 👋
+This is my first git Repository.
+Author -Subhro 
 
 <!--
 **Subhro-works/Subhro-works** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
